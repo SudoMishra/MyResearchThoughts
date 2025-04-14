@@ -1,0 +1,51 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"GEMM and GEMV/Implementations GEMM and GEMV\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"GEMM and GEMV/Matrix Types All\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15897234
+      }
+    },
+    {
+      "query": "path:\"GEMM and GEMV/Memory Layouts\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 12151402
+      }
+    },
+    {
+      "query": "path:\"GEMM and GEMV\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14817304
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.06440836588542,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.887044270833333,
+  "repelStrength": 19.8738606770833,
+  "linkStrength": 1,
+  "linkDistance": 59,
+  "scale": 0.3277419307923237,
+  "close": true
+}
