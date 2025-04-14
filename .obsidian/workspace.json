@@ -11,14 +11,10 @@
             "id": "fe51a1eaea339824",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evaluation Metrics/Evaluation Metrics.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Evaluation Metrics"
+              "title": "New tab"
             }
           }
         ]
@@ -31,14 +27,10 @@
             "id": "5e5cc85b4f56f64b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inference Optimisation/LLM Optimizations via Custom CUDA Kernels.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "LLM Optimizations via Custom CUDA Kernels"
+              "title": "New tab"
             }
           }
         ]
@@ -207,42 +199,42 @@
   },
   "active": "5e5cc85b4f56f64b",
   "lastOpenFiles": [
-    "Inference Optimisation/FlashAttention-3.md",
+    "ML Interview Question/Self-supervised pretraining/Self-supervised pretraining.md",
+    "ML Interview Question/Span Based QA/Span-Based QA.md",
+    "ML Interview Question/Multi-task learning/Multi-task learning.md",
+    "ML Interview Question/Retrieval Ranking/Retrieval + Reranking - Problem Bank.md",
+    "ML Interview Question/Graph-based inference/Graph-based inference.md",
+    "ML Interview Question/Matching + Dual Encoding/Matching + Dual Encoding.md",
+    "ML Interview Question/Keyword Conditioned Classification/Keyword Conditioned Classification.md",
+    "ML Interview Question/Contrastive Learning/Contrastive Representation Learning.md",
+    "ML Interview Question/Continual Learning/Continual learning.md",
+    "ML Interview Question/Attention interpretation/Attention interpretation.md",
+    "ML Interview Question/Unsupervised Learning Problems.md",
+    "ML Interview Question/Span Based QA",
+    "ML Interview Question/Self-supervised pretraining",
+    "ML Interview Question/Retrieval Ranking",
+    "ML Interview Question/Multi-task learning",
+    "ML Interview Question/Matching + Dual Encoding",
+    "ML Interview Question/ML Problem Question Bank.md",
+    "ML Interview Question/Keyword Conditioned Classification",
+    "ML Interview Question/Graph-based inference",
+    "ML Interview Question/Contrastive Learning",
+    "ML Interview Question/Continual Learning",
+    "ML Interview Question/Classical Machine Learning Problems.md",
+    "ML Interview Question/Attention interpretation",
+    "Inference Optimisation/vAttention.md",
+    "Inference Optimisation/Spin (Speculative Inference).md",
+    "Inference Optimisation/Speculative Decoding Techniques.md",
     "Inference Optimisation/LLM Optimizations via Custom CUDA Kernels.md",
-    "Evaluation Metrics/Evaluation Metrics.md",
-    "Evaluation Metrics/Ranking-Retrieval Metrics",
-    "Evaluation Metrics/Clustering Metrics",
-    "Evaluation Metrics/Generative Model Metrics",
-    "Evaluation Metrics/Calibration Metrics",
-    "Evaluation Metrics/Fairness Metrics",
-    "Evaluation Metrics/Uncertainty Estimation",
-    "Evaluation Metrics/Human Evaluation",
-    "Evaluation Metrics/Classification Metrics/F1 Score.md",
-    "Evaluation Metrics/Classification Metrics/Accuracy.md",
-    "Evaluation Metrics/Regression Metrics/Regression Metrics.md",
-    "Evaluation Metrics/Classification Metrics/Classification Metrics.md",
-    "Evaluation Metrics/Regression Metrics",
-    "Evaluation Metrics/Classification Metrics",
-    "Evaluation Metrics/Human Evaluation/Pairwise Preference.md",
-    "Evaluation Metrics/Human Evaluation/Human-in-the-loop Evaluation.md",
-    "Evaluation Metrics/Human Evaluation/Likert Scale Rating.md",
-    "Evaluation Metrics/Uncertainty Estimation/Prediction Interval Coverage Probability (PICP).md",
-    "Evaluation Metrics/Fairness Metrics/Disparate Impact.md",
-    "Evaluation Metrics/Fairness Metrics/Demographic Parity.md",
-    "Evaluation Metrics/Fairness Metrics/Equal Opportunity Difference.md",
-    "Evaluation Metrics/Calibration Metrics/Expected Calibration Error (ECE).md",
-    "Evaluation Metrics/Calibration Metrics/Brier Score.md",
-    "Evaluation Metrics/Generative Model Metrics/METEOR Score.md",
-    "Evaluation Metrics/Generative Model Metrics/ROUGE Score.md",
-    "BLEU Score.md",
-    "Evaluation Metrics/Generative Model Metrics/Perplexity.md",
-    "Evaluation Metrics/Generative Model Metrics/Self-BLEU.md",
-    "Evaluation Metrics/Generative Model Metrics/Fréchet Inception Distance (FID).md",
-    "Evaluation Metrics/Generative Model Metrics/Inception Score (IS).md",
-    "Evaluation Metrics/Clustering Metrics/Normalized Mutual Information (NMI).md",
-    "Evaluation Metrics/Clustering Metrics/Adjusted Rand Index (ARI).md",
-    "Evaluation Metrics/Clustering Metrics/Davies-Bouldin Index.md",
-    "Inference Optimisation",
+    "Inference Optimisation/FlashInfer.md",
+    "Inference Optimisation/FlashAttention-3.md",
+    "Inference Optimisation/Flash Attention.md",
+    "Inference Optimisation/CuAsmRL.md",
+    "GEMM and GEMV/Memory Layouts/Strided Matrix Layout.md",
+    "GEMM and GEMV/Memory Layouts/Row-Major Layout.md",
+    "GEMM and GEMV/Memory Layouts/Packed Storage Formats.md",
+    "GEMM and GEMV/Memory Layouts/Other Layouts and Ordering Schemes.md",
+    "GEMM and GEMV/Memory Layouts/Memory Layouts.md",
     "GEMM and GEMV/GPU Burning.png"
   ]
 }
