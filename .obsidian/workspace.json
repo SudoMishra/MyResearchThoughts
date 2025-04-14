@@ -199,13 +199,14 @@
   },
   "active": "5e5cc85b4f56f64b",
   "lastOpenFiles": [
-    "ML Interview Question/Self-supervised pretraining/Self-supervised pretraining.md",
+    "LICENSE",
     "ML Interview Question/Span Based QA/Span-Based QA.md",
-    "ML Interview Question/Multi-task learning/Multi-task learning.md",
+    "ML Interview Question/Self-supervised pretraining/Self-supervised pretraining.md",
     "ML Interview Question/Retrieval Ranking/Retrieval + Reranking - Problem Bank.md",
-    "ML Interview Question/Graph-based inference/Graph-based inference.md",
+    "ML Interview Question/Multi-task learning/Multi-task learning.md",
     "ML Interview Question/Matching + Dual Encoding/Matching + Dual Encoding.md",
     "ML Interview Question/Keyword Conditioned Classification/Keyword Conditioned Classification.md",
+    "ML Interview Question/Graph-based inference/Graph-based inference.md",
     "ML Interview Question/Contrastive Learning/Contrastive Representation Learning.md",
     "ML Interview Question/Continual Learning/Continual learning.md",
     "ML Interview Question/Attention interpretation/Attention interpretation.md",
@@ -230,11 +231,10 @@
     "Inference Optimisation/FlashAttention-3.md",
     "Inference Optimisation/Flash Attention.md",
     "Inference Optimisation/CuAsmRL.md",
-    "GEMM and GEMV/Memory Layouts/Strided Matrix Layout.md",
-    "GEMM and GEMV/Memory Layouts/Row-Major Layout.md",
     "GEMM and GEMV/Memory Layouts/Packed Storage Formats.md",
-    "GEMM and GEMV/Memory Layouts/Other Layouts and Ordering Schemes.md",
-    "GEMM and GEMV/Memory Layouts/Memory Layouts.md",
+    "GEMM and GEMV/Matrix Types All/Structured Matrices.md",
+    "GEMM and GEMV/Matrix Types All/Sparse Matrices and Vectors.md",
+    "GEMM and GEMV/Matrix Types All/Other Special Cases.md",
     "GEMM and GEMV/GPU Burning.png"
   ]
 }
