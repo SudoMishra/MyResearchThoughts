@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "889e949a24cabedb",
+    "type": "split",
+    "children": [
+      {
+        "id": "0956cacb264981d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe51a1eaea339824",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      },
+      {
+        "id": "8c2012ae9d58bd58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e5cc85b4f56f64b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f91dec8f3e7b89c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb56da2f4a0e8364",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd2343e4360f4362",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bf884af319491547",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "\\times",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d9da91cd8883b46f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "6ee1251ce7fcf1c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "af7afc16adcd2549",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20b65eea39409d5b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GEMM and GEMV/Implementations GEMM and GEMV/GEMM vs GEMV Software Implementations.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for GEMM vs GEMV Software Implementations"
+            }
+          },
+          {
+            "id": "92a0af5a52d07fc7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "GEMM and GEMV/Implementations GEMM and GEMV/GEMM vs GEMV Software Implementations.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from GEMM vs GEMV Software Implementations"
+            }
+          },
+          {
+            "id": "0649ba97c433611f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "96788ac27054e52a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GEMM and GEMV/Implementations GEMM and GEMV/GEMM vs GEMV Software Implementations.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of GEMM vs GEMV Software Implementations"
+            }
+          },
+          {
+            "id": "f0eee7de86d567e4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "5e5cc85b4f56f64b",
+  "lastOpenFiles": [
+    "LICENSE",
+    "ML Interview Question/Span Based QA/Span-Based QA.md",
+    "ML Interview Question/Self-supervised pretraining/Self-supervised pretraining.md",
+    "ML Interview Question/Retrieval Ranking/Retrieval + Reranking - Problem Bank.md",
+    "ML Interview Question/Multi-task learning/Multi-task learning.md",
+    "ML Interview Question/Matching + Dual Encoding/Matching + Dual Encoding.md",
+    "ML Interview Question/Keyword Conditioned Classification/Keyword Conditioned Classification.md",
+    "ML Interview Question/Graph-based inference/Graph-based inference.md",
+    "ML Interview Question/Contrastive Learning/Contrastive Representation Learning.md",
+    "ML Interview Question/Continual Learning/Continual learning.md",
+    "ML Interview Question/Attention interpretation/Attention interpretation.md",
+    "ML Interview Question/Unsupervised Learning Problems.md",
+    "ML Interview Question/Span Based QA",
+    "ML Interview Question/Self-supervised pretraining",
+    "ML Interview Question/Retrieval Ranking",
+    "ML Interview Question/Multi-task learning",
+    "ML Interview Question/Matching + Dual Encoding",
+    "ML Interview Question/ML Problem Question Bank.md",
+    "ML Interview Question/Keyword Conditioned Classification",
+    "ML Interview Question/Graph-based inference",
+    "ML Interview Question/Contrastive Learning",
+    "ML Interview Question/Continual Learning",
+    "ML Interview Question/Classical Machine Learning Problems.md",
+    "ML Interview Question/Attention interpretation",
+    "Inference Optimisation/vAttention.md",
+    "Inference Optimisation/Spin (Speculative Inference).md",
+    "Inference Optimisation/Speculative Decoding Techniques.md",
+    "Inference Optimisation/LLM Optimizations via Custom CUDA Kernels.md",
+    "Inference Optimisation/FlashInfer.md",
+    "Inference Optimisation/FlashAttention-3.md",
+    "Inference Optimisation/Flash Attention.md",
+    "Inference Optimisation/CuAsmRL.md",
+    "GEMM and GEMV/Memory Layouts/Packed Storage Formats.md",
+    "GEMM and GEMV/Matrix Types All/Structured Matrices.md",
+    "GEMM and GEMV/Matrix Types All/Sparse Matrices and Vectors.md",
+    "GEMM and GEMV/Matrix Types All/Other Special Cases.md",
+    "GEMM and GEMV/GPU Burning.png"
+  ]
+}
