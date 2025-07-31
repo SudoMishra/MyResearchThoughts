@@ -11,7 +11,7 @@ A comprehensive index of core ML algorithms and models. Each technique is linked
 | [[Gradient Boosting]]           | Boosting ensemble that sequentially improves weak learners (e.g., XGBoost, LightGBM)   |
 | [[Naive Bayes]]                 | Probabilistic classifier using Bayes’ Theorem with feature independence assumption     |
 | [[K-Nearest Neighbors (KNN)]]   | Instance-based model that classifies based on proximity to training data points        |
-| [[Support Vector Machine (SVM)]]| Finds optimal hyperplane for classification; supports non-linear kernels               |
+| [[Support Vector Machine (SVM) 1]]| Finds optimal hyperplane for classification; supports non-linear kernels               |
 | [[K-Means Clustering]]          | Unsupervised clustering based on minimizing intra-cluster variance                     |
 | [[Hierarchical Clustering]]     | Builds a tree of clusters (dendrogram) using agglomerative or divisive methods         |
 | [[Principal Component Analysis (PCA)]] | Dimensionality reduction via orthogonal transformation                         |

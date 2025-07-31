@@ -1,6 +1,6 @@
 # 📊 Statistical Testing Methods – Gold Standard Reference Table
 
-A practical guide to common statistical tests used in hypothesis testing, experiment analysis, and ML evaluation. Each category is linked to a corresponding note using Obsidian-style backlinks.
+A practical guide to common statistical tests used in hypothesis testing, experiment analysis, and ML evaluation.
 
 | **Category**                       | **Purpose / Use Case**                                                                 |
 |------------------------------------|----------------------------------------------------------------------------------------|
